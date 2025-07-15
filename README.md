@@ -1,1 +1,1 @@
-# -Fashion-MNIST-Classification-using-CNN
+# Fashion-MNIST-Classification-using-CNN
